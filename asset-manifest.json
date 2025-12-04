@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tremor_Track/static/css/main.8db3c422.css",
+    "main.js": "/Tremor_Track/static/js/main.93d78901.js",
+    "index.html": "/Tremor_Track/index.html",
+    "main.8db3c422.css.map": "/Tremor_Track/static/css/main.8db3c422.css.map",
+    "main.93d78901.js.map": "/Tremor_Track/static/js/main.93d78901.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8db3c422.css",
+    "static/js/main.93d78901.js"
+  ]
+}
