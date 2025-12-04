@@ -4,7 +4,7 @@ Real-time earthquake monitoring application with interactive maps, historical da
 
 🚀 Live Demo
 
-[View Live App](https://YOUR_USERNAME.github.io/Tremor_Track)
+[View Live App]("https://piyal-cse.github.io/Tremor_Track")
 
 ✨ Features
 
